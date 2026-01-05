@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Predictive Purchase Analytics",
+  "description": "A sophisticated machine learning dashboard that uses Logistic Regression and K-Nearest Neighbors to predict customer purchase behavior based on age and income demographics.",
+  "requestFramePermissions": []
+}
